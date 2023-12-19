@@ -197,8 +197,8 @@ $(document).ready(function () {
             function () {
               $(".message").typed({
                 strings: [
-                  "<<< Merry Christmas Dứahihi >>>",
-                  "Chúc em có một mùa giáng sinh an lành và ấm áp bên gia đình, người thân và bạn bè!!! <br>",
+                  "<<< Merry Christmas >>>",
+                  "Chúc em có một mùa giáng sinh an lành và ấm áp bên gia đình, người thân và bạn bè!!! <br> Duy Tùng",
                 ],
                 typeSpeed: 250,
                 startDelay: 500,
